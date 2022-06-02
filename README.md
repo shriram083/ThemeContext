@@ -1,3 +1,11 @@
+## Theme Context
+
+### Light Mode Theme
+![name-of-you-image](https://github.com/shriram083/ThemeContext/blob/master/public/darkTheme.png)
+
+### Light Mode Theme
+![name-of-you-image](https://github.com/shriram083/ThemeContext/blob/master/public/lightTheme.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
